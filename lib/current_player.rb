@@ -7,7 +7,7 @@ def turn_count(board)
      counter = counter += 1 
     else 
       counter = counter + 0 
-      binding.pry 
+    binding.pry 
     end }
 end 
 
