@@ -1,5 +1,5 @@
 def turn_count(board)
-  board.each { |element|
+  board.each { |element| if element == "X" || "O"
   
 end   
 
