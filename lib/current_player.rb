@@ -6,7 +6,7 @@ def turn_count(board)
     if element == "X" || "O" 
      counter = counter += 1 
     else 
-        binding.pry
+      binding.pry
      counter = counter + 0 
     end }
 end 
