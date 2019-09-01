@@ -1,3 +1,9 @@
+def turn_count(board)
+  
+end   
+
+
+
 # def turn_count(board)
 #   counter = 0 
 #   turns = 0 
