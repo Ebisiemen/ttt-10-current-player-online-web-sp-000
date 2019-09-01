@@ -4,6 +4,7 @@ def turn_count(board)
   board.each do |element|  
    if element == "X" || element == "O" 
     element += 1
+  end   
 end 
 
 # ["x", "", "o"]
