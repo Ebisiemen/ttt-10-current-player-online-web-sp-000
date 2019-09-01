@@ -9,7 +9,7 @@ def turn_count(board)
     else 
       puts counter + 0 
     end }
-    binding.pry 
+    
 end 
 
 # ["x", "", "o"]
