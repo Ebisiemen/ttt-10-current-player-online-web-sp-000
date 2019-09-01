@@ -9,7 +9,7 @@ def turn_count(board)
   end
 end 
 
-["x", "", "o"]
+# ["x", "", "o"]
 
 # def turn_count(board)
 #   counter = 0 
