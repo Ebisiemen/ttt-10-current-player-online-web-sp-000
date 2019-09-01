@@ -5,7 +5,7 @@ def turn_count(board)
      puts counter += 1 
     else 
       puts counter + 0 
-    end }
+    end }.to_i
 end 
 
 # ["x", "", "o"]
