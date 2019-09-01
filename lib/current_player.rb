@@ -5,7 +5,6 @@ def turn_count(board)
   board.each { |element| 
     if element == "X" || "O" 
      counter = counter += 1 
-     binding.pry
     end }
 end 
 
